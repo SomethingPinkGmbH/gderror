@@ -1,3 +1,4 @@
+@tool
 class_name Error extends RefCounted
 
 var code: int
